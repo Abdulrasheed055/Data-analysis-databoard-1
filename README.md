@@ -23,11 +23,11 @@ dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-
 ## process
 # Project workflow:
 Here’s a breakdown of the steps I followed to complete this project:
-- # Extract Data:
+-  Extract Data:
 - Gathered raw sales data from multiple sources
 -  Define Problem:
 
-## Goal: Analyze sales performance to identify trends, customer behaviour, and top-
+ Goal: Analyze sales performance to identify trends, customer behaviour, and top-
  - performing products and regions.
 
 ## Data Cleaning and Transformation (Power Query):
