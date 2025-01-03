@@ -3,8 +3,8 @@
 To analyze sales data, uncover actionable insights, and create an interactive dashboard that highlights key performance metrics, customer behaviors, and sales trends. The goal is to enable stakeholders to make informed, data-driven decisions to optimize sales strategies, enhance customer experience, and drive business growth.
 ## Queston kpi
 Total Revenue: Identify the overall revenue.
-2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
-3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
+- Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
+- Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
 4. Top Products by Revenue: Determine which products are the top revenue generators.
 5. Customer Spending Analysis: Understand how much customers are spending on
 average.
