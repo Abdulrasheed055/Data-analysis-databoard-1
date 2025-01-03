@@ -5,35 +5,35 @@ To analyze sales data, uncover actionable insights, and create an interactive da
 Total Revenue: Identify the overall revenue.
 - Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 - Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
-4. Top Products by Revenue: Determine which products are the top revenue generators.
-5. Customer Spending Analysis: Understand how much customers are spending on
+-Top Products by Revenue: Determine which products are the top revenue generators.
+- Customer Spending Analysis: Understand how much customers are spending on
 average.
-6. Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
-7. Top 10 Cities by Number of Orders: Find out which cities are placing the highest
+- Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
+- Top 10 Cities by Number of Orders: Find out which cities are placing the highest
 number of orders.
-8. Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery
+- Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery
 times.
-9. Revenue Comparison Between Occasions: Compare revenue generated across
+- Revenue Comparison Between Occasions: Compare revenue generated across
 different occasions.
-10. Product Popularity by Occasion: Identify which products are most popular during
+- Product Popularity by Occasion: Identify which products are most popular during
 specific occasions.
 
 dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-databoard-1/blob/main/Screenshot%20(30).png">view dashboard</a>
 
 ## process
-##Project workflow:
+# Project workflow:
 Here’s a breakdown of the steps I followed to complete this project:
-❖ Extract Data:
-Gathered raw sales data from multiple sources
-❖ Define Problem:
+- # Extract Data:
+- Gathered raw sales data from multiple sources
+-  Define Problem:
 
 ## Goal: Analyze sales performance to identify trends, customer behaviour, and top-
-performing products and regions.
+ - performing products and regions.
 
 ## Data Cleaning and Transformation (Power Query):
-Cleaned and transformed raw data to ensure consistency and accuracy.
-❖ Data Modeling (Pivot Tables):
-Structured and connected datasets for seamless analysis.
+- Cleaned and transformed raw data to ensure consistency and accuracy.
+- Data Modeling (Pivot Tables):
+ -Structured and connected datasets for seamless analysis.
 
 ## Data Analysis (Measures & Pivot Tables):
 Used DAX (Data Analysis Expressions) and pivot tables to calculate KPIs such as:
