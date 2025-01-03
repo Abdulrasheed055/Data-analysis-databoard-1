@@ -1,2 +1,3 @@
-# Data-analysis-databoard-1
-📊 Dashboard Creation: Designed an interactive dashboard to visualize revenue by category, product popularity, sales trends, and top-performing cities.
+##🚀 Data Analysis Project: Sale Analysis Dashboard
+##project objective
+To analyze sales data, uncover actionable insights, and create an interactive dashboard that highlights key performance metrics, customer behaviors, and sales trends. The goal is to enable stakeholders to make informed, data-driven decisions to optimize sales strategies, enhance customer experience, and drive business growth.
